@@ -1,1 +1,2 @@
 This is some test text. 
+And a change to test the new Commit messages. 
